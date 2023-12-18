@@ -16,5 +16,5 @@ application:
   version: 1.0.0      # 应用程序版本
   environment: dev    # 应用程序环境 (dev, prod, test, etc.)
 
-configinfo: 
+config: 
   info: "version:config-dev.yml 1.0 version"
