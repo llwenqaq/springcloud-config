@@ -17,4 +17,4 @@ application:
   environment: dev    # 应用程序环境 (dev, prod, test, etc.)
 
 config: 
-  info: "version:config-dev.yml 7.0 version"
+  info: "version:config-dev.yml 9.0 version"
